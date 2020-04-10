@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Inspire.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Inspire</title>
+    <link rel="stylesheet" href="Styles/style.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,200&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="Styles/font-awesome.css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <header class="header">
+         <div class="header__inner">
+            <div class="logo">
+                <a href="#">Inspire</a>
+            </div>
+            <ul class="menu">
+                <li class="menu__item"><a href="#" class="menu__link">Home</a></li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link">Blog <i class="fas fa-caret-down"></i></a>
+                    <ul class="submenu">
+                          <li class="submenu__item"><a href="#" class="submenu__link">Lập trình</a></li>
+                          <li class="submenu__item"><a href="#" class="submenu__link">Đời sống</a></li>
+                          <li class="submenu__item"><a href="#" class="submenu__link">Giải trí</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link">Tutorial <i class="fas fa-caret-down"></i></a>
+                      <ul class="submenu">
+                          <li class="submenu__item"><a href="#" class="submenu__link">Java</a></li>
+                          <li class="submenu__item"><a href="#" class="submenu__link">Python</a></li>
+                          <li class="submenu__item"><a href="#" class="submenu__link">C#</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item"><a href="#" class="menu__link">About Us</a></li>
+                <li class="menu__item"><a href="#" class="menu__link">Contact Us</a></li>
+         
+            </ul>
+            <div class="login">
+			    <a href="#" class="btn btn--signup">Sign up</a>
+			    <a href="#" class="btn btn--login">Login </a>
+            </div>
+         </div>
+      
+    </header>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <footer class="footer">
+        <p>© 2020 INSPIRE. HANDCRAFTED IN ADCSTUDIO. ALL RIGHTS RESERVED.</p>
+    </footer>
+</body>
+</html>
