@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -11,7 +12,13 @@ namespace Inspire
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+           
+        }
 
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Post post = new Post();
+            
         }
     }
 }

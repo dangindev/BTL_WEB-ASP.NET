@@ -12,11 +12,12 @@ namespace Inspire
         private string title = "Blog hom nay";
         private string content = "Creativity doesn’t just happen. The most inspired and innovative teams and individual designers need to be a part of a culture that enables forward-thinking, acceleration, and efficiency. It’s a…";
         private string author = "Carrie Cousines – April 4, 2020";
-
+       
         public Post()
         {
 
         }
+        
         public string getHtml()
         {
 
@@ -32,5 +33,6 @@ namespace Inspire
                        + "</div>";
             return htmlString;
         }
+
     }
 }

@@ -35,3 +35,38 @@ D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CoreCompileInput
 D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.csproj.CopyComplete
 D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.dll
 D:\ADC\Project\Inspire\Inspire\Inspire\obj\Debug\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.csprojResolveAssemblyReference.cache
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\obj\Debug\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Inspire.dll.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Inspire.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Inspire.pdb
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csc.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csc.rsp
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csi.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\csi.rsp
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.AppContext.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.Collections.Immutable.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\System.Reflection.Metadata.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\vbc.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\vbc.exe.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\vbc.rsp
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\roslyn\VBCSCompiler.exe.config
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\CKEditor.NET.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\THE STUDYING FILES\PROGRAMING\C#\Projects\BTL_WEB-ASP.NET\Inspire\Inspire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

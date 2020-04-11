@@ -12,7 +12,7 @@
               <CKEditor:CKEditorControl ID="txtNoiDung" runat="server"></CKEditor:CKEditorControl>
               <br />
               <br />
-\
+\             <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click"/>
            </div>
               
    
